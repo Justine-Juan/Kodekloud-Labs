@@ -1,2 +1,4 @@
 # Kodekloud-Labs
-Repository for Kodekloud Lab Activities
+
+Documenting my Kodekloud Labs:
+- 100 Days of DevOps (In progress)
